@@ -21,10 +21,17 @@ body {
     align-items: center;
 }
 
+.header-logo {
+    display: flex;
+    justify-content: flex-start;
+    gap: 5px;
+    align-items: center;
+    flex: 1;
+}
+
 .header-logo img {
     width: 84px;
-    height: 84px;
-    margin-right: auto;
+    height: 84pxl
 }
 
 .header-link {
